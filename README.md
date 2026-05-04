@@ -31,7 +31,7 @@ const amoni = {
   available:  "Technical co-founder (equity) for validated-idea founders",
   languages:  ["English", "Swahili", "Turkana"],
   focus:      ["SaaS", "Gov-Tech", "AI-integrated platforms", "Fintech"],
-  education:  "BSc Applied Statistics with Computing — Moi University", "Software Engineering - ALX", "Data Scince - ALX", "Cybersecurity - ALX"
+  education:  "BSc Applied Statistics with Computing — Moi University", "Software Engineering - ALX", "Data Scince - ALX", "Cybersecurity - ALX",
   ask_me:     ["System Design", "AI integration", "Backend Architecture"],
   contact:    "kevinamoni20@gmail.com",
 };
