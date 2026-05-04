@@ -25,13 +25,13 @@
 
 ```ts
 const amoni = {
-  role:       "Full-Stack · AI · Data Engineer",
+  role:       "Software Engineer · AI/ML",
   location:   "Nairobi, Kenya 🇰🇪",
   mission:    "Build technology products for Africa",
   available:  "Technical co-founder (equity) for validated-idea founders",
   languages:  ["English", "Swahili", "Turkana"],
-  focus:      ["SaaS", "Gov-Tech", "AI-integrated platforms", "M-Pesa Fintech"],
-  education:  "BSc Applied Statistics with Computing — Moi University",
+  focus:      ["SaaS", "Gov-Tech", "AI-integrated platforms", "Fintech"],
+  education:  "BSc Applied Statistics with Computing — Moi University", "Software Engineering - ALX", "Data Scince - ALX", "Cybersecurity - ALX"
   ask_me:     ["System Design", "AI integration", "Backend Architecture"],
   contact:    "kevinamoni20@gmail.com",
 };
